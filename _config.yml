@@ -1,28 +1,28 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: https://github.com/dimaty26/dimaty26.github.io
+baseurl: 
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
+title: Follow
+email: dimaty26rus@mail.ru
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Anton GRIGOREV
   pic: 1
-  position: Lead Designer
+  position: Business analytics and strategy development
   social:
-    - title: twitter
-      url: #
+    - title: github
+      url: https://github.com/BaldyAsh
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: https://www.facebook.com/profile.php?id=100014712275768
+    - title: twitter
+      url: https://twitter.com/CryptoBaldyAsh
 
-- name: Larry Parker
+- name: Georgiy FESENKO
   pic: 2
-  position: Lead Marketer
+  position: Head of services and products development
   social:
     - title: twitter
       url: #
@@ -31,16 +31,49 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Rishat GILMANOV
   pic: 3
-  position: Lead Developer
+  position: Main Smart-Trading Modules developer and data scientist
+  social:
+    - title: twitter
+      url: https://twitter.com/GilmanovR
+    - title: facebook
+      url: https://github.com/Ir1ha
+    - title: github
+      url: https://github.com/Ir1ha
+
+- name: Gleb ZABLUDOVSKY
+  pic: 4
+  position: Main backend developer
   social:
     - title: twitter
       url: #
     - title: facebook
       url: #
-    - title: google-plus
+    - title: github
+      url: https://github.com/GlebZabl
+
+- name: Anton DMITRIEV
+  pic: 5
+  position: Main frontend developer
+  social:
+    - title: twitter
       url: #
+    - title: facebook
+      url: #
+    - title: github
+      url: https://github.com/kabachok169
+
+- name: Egor KURNIKOV
+  pic: 6
+  position: Main mobile developer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: github
+      url: https://github.com/kurnegor
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
