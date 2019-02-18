@@ -169,6 +169,13 @@ fieldset[disabled] .btn-xl.active {
     color: #{{ site.data.template.color.primary }};
     background-color: #fff;
 }
+.button2
+{
+    border: 2px solid #000;
+    padding-right: 30px;
+    -webkit-transition: all .3s ease;
+    text-transform: uppercase;
+}
 .button2:before
 {
     content: '';
@@ -185,9 +192,9 @@ fieldset[disabled] .btn-xl.active {
 }
 .button2:hover
 {
-    background: #34896C;
+    background: #3663fe;
     color: #fff;
-    border: 2px solid #34896C;
+    border: 2px solid #3663fe;
 }
 
 .navbar-default {
